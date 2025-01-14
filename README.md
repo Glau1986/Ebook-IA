@@ -14,7 +14,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="[https://github.com/Glau1986/Ebook-IA.git]" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="[https://github.com/Glau1986/Ebook-IA/blob/dfb4e42b4ccc25ceaa20c4dbaebe66b7a70cab6e/Ebook.pdf]" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
  
