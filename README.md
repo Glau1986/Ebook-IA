@@ -14,12 +14,12 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="[ttps://github.com/Glau1986/Ebook-IA.git]" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="[https://github.com/Glau1986/Ebook-IA.git]" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [Copilot](https://copilot.microsoft.com/chats/ZktMrRJJvAXeiJUdKd8V4)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
