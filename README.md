@@ -58,6 +58,6 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 
  
 
-⌨️ com 💜 por [Glaucia Do Val Takao](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Glaucia Do Val Takao](https://github.com/Glau1986/)
 
 
